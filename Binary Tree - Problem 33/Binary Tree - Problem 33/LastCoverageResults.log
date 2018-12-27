@@ -1,0 +1,34 @@
+[2018-06-09 10:10:32] [info] Start Program:
+Path:"E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Debug\Binary Tree - Problem 33.exe"
+Arguments:
+Working directory: "E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Binary Tree - Problem 33\"
+Modules: Selected: E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Debug\Binary Tree - Problem 33.exe Excluded: 
+Sources: Selected: E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Binary Tree - Problem 33 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Alex\AppData\Local\Temp\yczs3y4w.hgh 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-06-09 10:10:32] [info] Module: E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Debug\Binary Tree - Problem 33.exe is selected because it matches selected pattern: E:\Scoala\Facultate\SDA\Project\Binary Tree - Problem 33\Debug\Binary Tree - Problem 33.exe
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\ntdll.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\kernel32.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\kernel32.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\msvcp140d.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\kernel.appcore.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\rpcrt4.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\sspicli.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\cryptbase.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\bcryptprimitives.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] Module: C:\Windows\SysWOW64\sechost.dll is skipped because it matches no selected patterns
+[2018-06-09 10:10:32] [info] ----------------------------------------------------
+[2018-06-09 10:10:32] [info] Coverage binary generated in file: C:\Users\Alex\AppData\Local\Temp\yczs3y4w.hgh
+[2018-06-09 10:10:32] [info] ----------------------------------------------------
